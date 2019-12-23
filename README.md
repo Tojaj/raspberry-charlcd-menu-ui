@@ -8,6 +8,8 @@ Usage
 
     $ python3 example.py
 
+![Example](doc/example.jpg)
+
 
 Requirements
 ============
@@ -20,6 +22,7 @@ Requirements
   * [Example 1](https://www.adafruit.com/product/1115) or
     [Example 2](https://arduino-shop.cz/arduino/1210-lcd-shield-pro-raspberry-pi-b-b.html)
 
+![LCD Shield](doc/lcd_shield.jpg)
 
 **Raspbian packages**
 
